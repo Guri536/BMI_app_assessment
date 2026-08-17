@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "124252071373",
+    "project_id": "bmi-app-e6397",
+    "storage_bucket": "bmi-app-e6397.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124252071373:android:ec70e558033e30e8fc1084",
+        "android_client_info": {
+          "package_name": "com.guri.bmicalc.bmi_calc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124252071373-llhmcommtd76lmjgv68b3n3h1ismb6k2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.guri.bmicalc.bmi_calc",
+            "certificate_hash": "5915eae21f38399dab3aa985c77a93db715cf8d4"
+          }
+        },
+        {
+          "client_id": "124252071373-o19inauifmlloiu08voopubgrqlf6qqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIPZc8seKKGSUvJnsYwxMurQ8CzCF5cwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124252071373-o19inauifmlloiu08voopubgrqlf6qqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
